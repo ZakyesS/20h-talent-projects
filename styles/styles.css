@@ -92,7 +92,7 @@ section {
 }
 article {
     width: 40%;
-    height: 270px;
+    height: 20%;
     background-color: blanchedalmond;
     border: solid black 2px;
     border-radius: 8px;
@@ -124,13 +124,13 @@ h2.articles {
     border-radius: 8px;
     padding: 5px;
     margin: 0px 0px 0px 0px;
-    display: inline;
+    display: inline-block;
+    
 }
 img.articles {
-    width: 10%;
+    width: 30px;
     height: 10%;
 }
-
 
 /* ------------ FOOTER SECTION ------------ */
 footer{
